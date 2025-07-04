@@ -1,0 +1,26 @@
+{
+  "name": "retail-inventory-system",
+  "version": "1.0.0",
+  "description": "Multi-Category Retail Inventory & Billing System",
+  "scripts": {
+    "start": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "keywords": [
+    "retail",
+    "inventory",
+    "billing"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chart.js": "^4.4.0",
+    "react": "^18.2.0",
+    "react-chartjs-2": "^5.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.16.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.9.3"
+  }
+}
